@@ -278,6 +278,7 @@
 	  "*://mcrypto.club/*",
 	  "*://bitlinks.pw/shbit/sh/*",
 		"*://dutchycorp.ovh/sl/*",
+		"*://dutchycorp.space/sl/*",
 		"*://freebcc.org/claim/a/*",
 		"*://exey.io/*#*",
 		"*://ccurl.net/*",
@@ -323,6 +324,7 @@
 		"nzn.me"
 	],
 	"ip_logger": [
+	  "*://topcryptoz.net/*",
 		"*://*.viral.over-blog.com/*",
 		"*://*.gyazo.in/*",
 		"*://*.ps3cfw.com/*",
