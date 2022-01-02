@@ -324,6 +324,7 @@
 		"nzn.me"
 	],
 	"ip_logger": [
+	  "*://uniqueten.net/*",
 	  "*://topcryptoz.net/*",
 		"*://*.viral.over-blog.com/*",
 		"*://*.gyazo.in/*",
