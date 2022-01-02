@@ -205,6 +205,7 @@
 		"*://*.duit.cc/*?*"
 	],
 	"param_id_base64_replacements": [
+	  "*://zagl.info/*?*=1",
 		"*://*.safelinkconverter.com/*?*",
 		"*://*.safelinkreview.com/*?*",
 		"*://*.safelinkreviewx.com/*?*",
