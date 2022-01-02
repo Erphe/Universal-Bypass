@@ -111,7 +111,8 @@
 		"*://*.pafpaf.info/?*=*",
 		"*://*.binerfile.info/?*=*",
 		"*://kurosafety.menantisenja.com/?*=*",
-		"*://hightech.web.id/*?*=*"
+		"*://hightech.web.id/*?*=*",
+		"*://exey.io/*#*"
 	],
 	"param_r_base64": [
 		"*://*/?r=*",
@@ -278,7 +279,8 @@
 	  "*://bitlinks.pw/shbit/sh/*",
 		"*://dutchycorp.ovh/sl/*",
 		"*://freebcc.org/claim/a/*",
-		"*://exey.io/*",
+		"*://exey.io/*#*",
+		"*://ccurl.net/*",
 		"*://*.x.co/*",
 		"*://*.1w.tf/*",
 		"*://*.1b.yt/*",
