@@ -22,7 +22,8 @@
 	],
 	"path_ads_hex": [
 		"*://*.leechall.com/ads/*",
-		"*://bitlinks.pw/shbit/sh/*"
+		"*://bitlinks.pw/shbit/sh/*",
+		"*://dutchycorp.ovh/sl/*"
 	],
 	"query_raw": [
 		"*://*.anonym.to/?*",
