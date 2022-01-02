@@ -1,7 +1,9 @@
 {
 	"path_base64": [
+	  "*://*.100count.net/fo/linko/*",
 	  "*://zagl.info/*",
 	  "*://mcrypto.club/*",
+	  "*://*.100count.net/fo/linko/*",
 		"*://*.bursadrakor.com/protect-link/*",
 		"*://*.getfile.mobi/get/files/*",
 		"*://hikarinoakari.com/out/?*",
@@ -14,10 +16,12 @@
 		"*://*.linkspy.cc/r/*"
 	],
 	"path_dl_base64": [
+	  "*://*.100count.net/fo/linko/*",
 		"*://*.k2nblog.com/dl/*",
 		"*://*.filekita.me/page/dl/*"
 	],
 	"path_u_id_base64": [
+	  	  "*://*.100count.net/fo/linko/*",
 		"*://*.shrink-service.it/u/*/*"
 	],
 	"path_ads_hex": [
@@ -268,6 +272,11 @@
 		"*://*.goodssh.com/user/links"
 	],
 	"tracker": [
+	  "*://*.100count.net/fo/linko/*",
+	  "*://zagl.info/*",
+	  "*://mcrypto.club/*",
+	  "*://bitlinks.pw/shbit/sh/*",
+		"*://dutchycorp.ovh/sl/*",
 		"*://*.x.co/*",
 		"*://*.1w.tf/*",
 		"*://*.1b.yt/*",
