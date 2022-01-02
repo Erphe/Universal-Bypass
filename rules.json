@@ -273,6 +273,7 @@
 		"*://*.goodssh.com/user/links"
 	],
 	"tracker": [
+	  "*://coinsparty.com/*",
 	  "*://*.100count.net/fo/linko/*",
 	  "*://zagl.info/*",
 	  "*://mcrypto.club/*",
