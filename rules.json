@@ -1,6 +1,6 @@
 {
 	"path_base64": [
-	  "*://zagl.info/*"
+	  "*://zagl.info/*",
 	  "*://mcrypto.club/*",
 		"*://*.bursadrakor.com/protect-link/*",
 		"*://*.getfile.mobi/get/files/*",
@@ -21,7 +21,8 @@
 		"*://*.shrink-service.it/u/*/*"
 	],
 	"path_ads_hex": [
-		"*://*.leechall.com/ads/*"
+		"*://*.leechall.com/ads/*",
+		"*://bitlinks.pw/shbit/sh/*"
 	],
 	"query_raw": [
 		"*://*.anonym.to/?*",
